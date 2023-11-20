@@ -14,13 +14,12 @@
 }
 
 /* box1 */
-
 .nav_logo {
   height: 50px;
 }
 
 .logo {
-  background-image: url(amazon-png-logo-vector-6699.png);
+  background-image: url("Images/amazon-logo.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -57,7 +56,6 @@
 }
 
 /* box3 */
-
 .nav-search {
   display: flex;
   justify-content: space-evenly;
@@ -125,7 +123,6 @@ span {
 }
 
 /* box6*/
-
 .nav-cart i {
   font-size: 25px;
 }
@@ -136,7 +133,6 @@ span {
 }
 
 /* panel */
-
 .panel {
   height: 40px;
   background-color: #222f3d;
@@ -163,9 +159,8 @@ span {
 }
 
 /* HERO section */
-
 .hero-section {
-  background-image: url(greatindianfestival_png.jpg);
+  background-image: url("Images/greatindianfestival_png.jpg");
   background-size: cover;
   height: 250px;
 }
@@ -183,7 +178,7 @@ span {
 }
 
 .shop-section {
-  height:1200px;
+  height: 1200px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
@@ -209,8 +204,8 @@ span {
 }
 
 /* For four image boxes */
-.box-sub{
-  height:270px;  
+.box-sub {
+  height: 270px;
   width: 100%;
   /* border: 1px solid black; */
   display: flex;
@@ -220,12 +215,12 @@ span {
 
 }
 
-.box-sub-img{
+.box-sub-img {
   margin-top: 0.3rem;
   margin-bottom: 1rem;
 }
 
-.sub-img{
+.sub-img {
   height: 45%;
   width: 45%;
   margin-top: 1rem;
@@ -234,27 +229,27 @@ span {
 }
 
 /* Train */
-
-.train{
-  height:200px;
+.train {
+  height: 200px;
   width: 91.5%;
   background-color: white;
   padding: 20px;
 }
 
 /* footer  */
-
-footer{
+footer {
   margin-top: 20px;
 }
-.foot-panel a{
+
+.foot-panel a {
   text-decoration: none;
   color: white;
   font-size: medium;
   font-weight: 600;
 
 }
-.foot-panel{
+
+.foot-panel {
   background-color: #37475a;
   color: white;
   height: 50px;
@@ -264,46 +259,47 @@ footer{
   font-size: 0.85rem;
 }
 
-.foot-panel2{
+.foot-panel2 {
   background-color: #222f3d;
   color: white;
   height: 300px;
   display: flex;
   justify-content: space-evenly;
-  
+
 }
 
-ul{
+ul {
   margin-top: 30px;
 }
-ul p{
+
+ul p {
   font-size: larger;
   font-weight: 500;
 }
-ul a{
+
+ul a {
   display: block;
   font-size: medium;
-  margin-top:10px;
-  color:#dddddd;
+  margin-top: 10px;
+  color: #dddddd;
   font-weight: 400;
 }
 
-
-.foot-panel3{
+.foot-panel3 {
   background-color: #222f3d;
   color: white;
   border-top: 0.1px solid whitesmoke;
-  height:70px;
+  height: 70px;
   /* display: flex;   */
   /* justify-content: center; */
   /* align-items: center; */
 }
 
-.foot-logo{
+.foot-logo {
   margin-top: 10px;
-  background-image: url(amazon-png-logo-vector-6699.png);
+  background-image: url("Images/amazon-logo.png");
   background-size: 70px;
   background-repeat: no-repeat;
-  background-position: center; 
-  height:50px;
+  background-position: center;
+  height: 50px;
 }
